@@ -1,0 +1,9 @@
+[package]
+name = "with-checked-bytes"
+description = "Extension trait for safely editing strings as byte slices"
+version = "0.1.0"
+edition = "2021"
+authors = ["Thomas Karpiniec <tom.karpiniec@outlook.com>"]
+license = "Apache-2.0"
+
+[dependencies]
